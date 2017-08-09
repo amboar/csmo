@@ -1,0 +1,1 @@
+csmo: csmo.o
